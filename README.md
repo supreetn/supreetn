@@ -1,4 +1,4 @@
-- ### Hi there, I'm Neha Shaikh 👋
+- ### Hi there, I'm Supreetha Naik 👋
     
 <img src="user (2).gif">
 

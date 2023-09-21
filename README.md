@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 🔭 am interested in research ideas on LLMs and other AI technologies.
 - 📫 How to reach me supreetha.naik@sjsu.edu
-- [![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-ns/](https://www.linkedin.com/in/supreetha-naik-b644121aa/?challengeId=AQGiyDis5UmN3QAAAYq6BvZhFHDUw9n_q-gRLD8Ds3ND4m9w1rw_cPt3SFkCZHwmCXKkI-OuO1jAGrFqw_Na3VbMKY1h6Znx8A&submissionId=82882dab-0c0d-8717-4c12-2c8965e40441&challengeSource=AgGqSAjetb1DowAAAYq6B35HsnrdCSgxS8w4iDZv2u-e4RLt3khCJFwWyxiWFNI&challegeType=AgHOWg0MT_E-gQAAAYq6B35K2ICS4DO4UlXvYvCQ96x7HT2Gh2M0Vlg&memberId=AgH6wWVAyJrzLQAAAYq6B35NRAHOwvbeNN6uubHD1qOjG9M&recognizeDevice=AgFtUMftwKhzzQAAAYq6B35Qgb3RQ71cVsWfvOTLSa2ZZCCXVnSd&original_referer=https%3A%2F%2Fwww.linkedin.com%2Fcheckpoint%2FchallengesV2%2FAQGiyDis5UmN3QAAAYq6BvZhFHDUw9n_q-gRLD8Ds3ND4m9w1rw_cPt3SFkCZHwmCXKkI-OuO1jAGrFqw_Na3VbMKY1h6Znx8A))
+- [![LinkedIn](https://www.linkedin.com/in/supreetha-naik-b644121aa/)
 
 ---
 | ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Neha's Stri](https://streak-stats.demolab.com?user=ashaikhneha2911&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |

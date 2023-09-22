@@ -7,16 +7,16 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects with expertise in NLP.
 - 🔭 Always on the lookout for research ideas in LLMs and Generative AI.
 - 📫 How to reach me supreetha.naik@sjsu.edu
-- [![LinkedIn]([https://www.linkedin.com/in/supreetha-naik-b644121aa/](https://www.linkedin.com/in/supreetha-naik-b644121aa/))]
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreetha-naik-b644121aa/)
 
 ---
-| ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Neha's Stri](https://streak-stats.demolab.com?user=ashaikhneha2911&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Supreetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Supreetha's Stri](https://streak-stats.demolab.com?user=ashaikhneha2911&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhneha2911&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 
 
-[![Neha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shaikhneha2911&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Supreetha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shaikhneha2911&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ⚡ Technologies I use 

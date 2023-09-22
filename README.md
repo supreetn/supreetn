@@ -1,4 +1,4 @@
-- ### I am Supreetha Naik a Machine Learning Enthusiast 
+- ### Hi there, I am Supreetha Naik, Machine Learning enthusiast 👋
     
 <img src="user (2).gif">
 

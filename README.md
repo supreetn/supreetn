@@ -10,7 +10,7 @@
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreetha-naik-b644121aa/)
 
 ---
-| ![Supreetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Supreetha's Stri](https://streak-stats.demolab.com?user=asupreetn&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Supreetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetn&show_icons=true&theme=radical) | [![Supreetha's Stri](https://streak-stats.demolab.com?user=asupreetn&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetn&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 

@@ -1,11 +1,11 @@
-- ### Hi there, I'm Supreetha Naik 👋
+- ### i am Supreetha Naik a Machine Learning Enthusiast 
     
 <img src="user (2).gif">
 
-- 👀 I’m interested in Machine Learning and applications
+- 👀 I’m interested in developing software solutions using state-of-art algorithms
 - 📚I’m currently a Grad Student majoring in Data Analytics at San Jose State University
-- 💞️ I’m looking to collaborate on Machine Learning projects.
-- 🔭 am interested in research ideas on LLMs and other AI technologies.
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects with expertise in NLP.
+- 🔭 Always on the lookout for research ideas in LLMs and Generative AI.
 - 📫 How to reach me supreetha.naik@sjsu.edu
 - [![LinkedIn](https://www.linkedin.com/in/supreetha-naik-b644121aa/)
 

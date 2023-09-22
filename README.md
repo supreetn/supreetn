@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects with expertise in NLP.
 - 🔭 Always on the lookout for research ideas in LLMs and Generative AI.
 - 📫 How to reach me supreetha.naik@sjsu.edu
-- [![LinkedIn](https://www.linkedin.com/in/supreetha-naik-b644121aa/)
+- [![LinkedIn]([https://www.linkedin.com/in/supreetha-naik-b644121aa/](https://www.linkedin.com/in/supreetha-naik-b644121aa/))]
 
 ---
 | ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Neha's Stri](https://streak-stats.demolab.com?user=ashaikhneha2911&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |

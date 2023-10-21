@@ -47,6 +47,10 @@
             <img src="docker.png" width="65px"/>
             <br /> Docker
         </td>
+        <td align="center" width="120" height="112.43">
+            <img src="![2560px-PyTorch_logo_black svg](https://github.com/supreetn/Object-Detection/assets/84839204/9665947d-3c8c-4c56-9a18-b1f3b458cb1b)" width="65px"/>
+            <br /> PyTorch
+        </td>
     </tr>
 </table>
 </div>

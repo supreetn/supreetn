@@ -23,27 +23,27 @@
 <div align="center">
 <table align="center">
     <tr>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="python.jpeg" width="65px"/>
             <br /> Python
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="120" height="112.43">
             <img src="docker.png" width="65px"/>
             <br /> Docker
         </td>
